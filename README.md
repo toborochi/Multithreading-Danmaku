@@ -16,5 +16,10 @@ To move the ship  you can use <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> o
 
 > Menu
 
+<img src="https://raw.githubusercontent.com/toborochi/Multithreading-Danmaku/master/screenshots/1576837599402.png" height="250px" />
 
 > Gameplay 
+
+<img src="https://raw.githubusercontent.com/toborochi/Multithreading-Danmaku/master/screenshots/1576837699546.png" height="250px" />
+
+<img src="https://raw.githubusercontent.com/toborochi/Multithreading-Danmaku/master/screenshots/1576837804171.png" height="250px" />
