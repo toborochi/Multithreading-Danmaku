@@ -21,6 +21,8 @@ To move the ship  you can use <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> o
 </p>
 
 
+
+
 > Gameplay 
 
 <p align="center">
@@ -30,6 +32,9 @@ To move the ship  you can use <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> o
   </div>
   <div class="column">
     <img src="https://raw.githubusercontent.com/toborochi/Multithreading-Danmaku/master/screenshots/1576837804171.png" height="250px" />
+  </div>
+    <div class="column">
+    <img src="https://raw.githubusercontent.com/toborochi/Multithreading-Danmaku/master/screenshots/1576837804174.png" height="250px" />
   </div>
 </div> 
 </p>
